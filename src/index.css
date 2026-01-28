@@ -1,0 +1,30 @@
+@font-face {
+    font-family: head;
+    src: url('/head.ttf');
+}
+@font-face {
+  font-family: royal;
+  src: url('/title.ttf');
+}
+
+@font-face {
+  font-family: cursy;
+  src: url('/curry.ttf');
+}
+  .cls-1 {
+        fill: #fd8266;
+      }
+
+      .cls-2 {
+        fill: #fd5933;
+      }
+
+      .cls-3 {
+        fill: #feac99;
+      }
+
+
+      body ,html{
+        overflow-x: hidden;
+        overflow-y: scroll;
+      }

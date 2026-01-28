@@ -1,16 +1,72 @@
-# React + Vite
+🍵 Chai Circle – Coming Soon Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, royal-themed “Coming Soon” landing page for Chai Circle, a premium instant chai tea premix inspired by royal Indian households.
+Built with performance, responsiveness, and brand storytelling in mind.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img src="public/view.jpeg" alt="Landing Page Preview" width="800" />
+</p>
+✨ Features
 
-## React Compiler
+Royal & elegant UI inspired by Indian heritage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Responsive design (mobile-first)
 
-## Expanding the ESLint configuration
+Dynamic color palette switcher
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Email notification signup
+
+Smooth layout and clean typography
+
+Social media integration
+
+Reusable React components
+
+Optimized for fast loading
+
+🧱 Tech Stack
+
+React.js
+
+Tailwind CSS
+
+Framer Motion (for animations)
+
+Vite (development & build)
+
+Modern CSS & SVG icons
+
+🎨 Design Direction
+
+Tagline: Brew the Royal Tradition
+
+Color Palette: Browns, creams, golds
+
+Typography: Elegant display font for headings
+
+Mood: Warm, royal, premium
+
+📱 Responsive Support
+
+Mobile ✔️
+
+Tablet ✔️
+
+Desktop ✔️
+
+Tested across multiple screen sizes for consistent experience.
+
+🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/fit-edoc/Frontend_assignment
+
+2. Install dependencies
+npm install
+
+3. Start development server
+npm run dev
+
+4. Build for production
+npm run build
+
